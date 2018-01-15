@@ -1,2 +1,2 @@
-# Pemrograman
+# Algo
 Repo untuk Tugas" Pemrograman
